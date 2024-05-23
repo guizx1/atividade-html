@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>TORCEDOR DO CORINTHIANS</title>
+</head>
+<body>
+	<br>
+	<h1>SÓCIO TORCEDOR DO CORINTHIANS</h1>
+	<br>
+	<h3>PREENCHA O FORMULÁRIO</h3>
+	<br>
+	<div>
+		<label><strong> Nome: </strong></label>
+		<input type="input" name="Nome">
+	</div>
+	<br>
+	<div>
+		<label><strong> Data de Nascimento:</strong></label>
+		<input type="Data" name="Data">
+
+	</div>
+	<br>
+	<label><strong> Qual é o seu sexo? </strong></label>
+	<select id="sexo" name="sexo"> 
+		<option value="Masculino">Masculino</option>
+		<option value = "Feminino">Feminino</option>
+	</select>
+		<br>
+	<br>
+	<label><strong> Mora sozinho(a)?</strong></label>
+	<select id="morar" name="morar"> 
+		<option value="sim">Sim</option>
+		<option value = "não">Não</option>
+	</select>
+	<br>
+	<br>
+	<label><strong> Deseja comprar a camisa?</strong></label>
+	<select id="camisa" name="camisa"> 
+		<option value="s">Sim</option>
+		<option value = "n">Não</option>
+	</select>
+	<br>
+	<br>
+	<label> <strong>Qual o tamanho da camisa? </strong></label> 
+	<select>
+		<option value = "p"> P </option>
+		<option value = "m"> M </option>
+		<option value = "g"> G </option>
+		<option value = "gg"> GG </option>
+	</select>
+	<h4>Confirma as informações?</h4>
+	<label for= "idradioTres"> Sim </label>
+	<input type="radio" id = "idradioTres" name="idradioTres" value = "idradioTres" />
+	<label for= "idradioQuatro"> Não </label>
+	<input type="radio" id = "idradioQuatro" name="idradioQuatro" value = "idradioQuatro" />
+	<h3></h3>
+	<h4>Tem algum parente corinthiano?</h4>
+	<label for= "idradioUm"> Sim </label>
+	<input type="radio" id = "idradioUm" name="idradioUm" value = "idradioUm" />
+	<label for= "idradioDois"> Não </label>
+	<input type="radio" id = "idradioDois" name="idradioDois" value = "idradioDois" />
+	<h3></h3>
+	<br>
+	<h2>PARABÉNS! VOCÊ AGORA É UM SÓCIO TORCEDOR.</h2>
+	<p>obs: agora espere sua camisa brinde chegar!</p>
+	<br>
+	<hr>
+	<h1>ÚLTIMAS INFORMAÇÕES DO CORINTHIANS!</h1>
+	<br>
+	<h2>CORINTHIANS VOLTA A TER DUAS PEÇAS PARA DECISÃO CONTRA AMÉRICA-RN</h2>
+	<p> O Corinthians busca avançar para as oitavas de final da Copa do Brasil nesta quarta-feira. Para isso, volta a contar com António Oliveira e Rodrigo Garro, que cumpriram suspensão no jogo de ida. Por outro lado, quatro jogadores seguem no departamento médico e outro é dúvida. </p>
+	<p>As ausências certas são Maycon e Palacios. O volante rompeu o ligamento cruzado anterior (LCA) do joelho direito e só deve retornar aos gramados em 2025, enquanto o lateral-esquerdo vem se recuperando de uma lesão crônica no joelho esquerdo e não tem previsão para retornar aos gramados. </p> 
+	<p> Também é pouco provável que Matheuzinho, que sofreu um entorse no tornozelo direito, e Pedro Henrique, que trata uma lesão no músculo posterior da coxa esquerda, sejam relacionados. Vale lembrar que o Corinthians não divulga a lista dos atletas convocados.</p>
+	<h4>22 de Maio de 2024 às 15:05</h4>
+	<h2>TRIO DO CORINTHIANS SE JUNTA À ARTILHARIA DO FEMININO EM 2024</h2>
+	<p> Na última terça-feira, o Corinthians venceu a equipe do Taubaté por 4 a 1 na estreia do Paulistão Feminino. Com esse resultado, três novas jogadoras foram adicionadas à lista de artilheiras da equipe na temporada de 2024: Gi Fernandes, Letícia Santos e Eudimilla.</p>
+	<p>Esses não apenas foram os primeiros gols do trio no ano, mas também suas estreias nas redes com a camisa do Corinthians. As três atletas são reforços desta temporada e ainda não haviam marcado pela equipe. Além delas, Jaqueline também deixou sua marca, alcançando seu terceiro gol em 2024.</p>
+	<p></p>
+	<h4>22 de Maio de 2024 às 14:32</h4>
+
+</body>
+</html>
